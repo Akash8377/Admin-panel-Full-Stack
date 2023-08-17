@@ -1,0 +1,20 @@
+h2{
+  text-align: center;
+  font-size: 33px;
+}
+.cutsomer-con{
+  border:1px solid black;
+  border-radius: 5px;
+  box-shadow:inset
+}
+.input-client{
+  border-radius: 5px;
+  
+  height:40px;
+  width: 320px;
+}
+.button-client{
+  padding-top: 5px;
+  font-size: 20px;
+  
+}
